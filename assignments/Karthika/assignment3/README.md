@@ -1,5 +1,5 @@
 # Assignment 03 
 
-## ChatBot link for KT Hospital
+## ChatBot link for KK Health Center
 
-ChatBot Web URL : [LINK](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-ff405e1f-2e72-4e71-a281-4ff48c3d5b48%3A%3A860d93b6-334a-4082-acd7-3232ed483226&integrationID=ad23f1e9-cd02-4747-b7cb-e6967ab25694&region=au-syd&serviceInstanceID=ff405e1f-2e72-4e71-a281-4ff48c3d5b48)
+ChatBot Web URL : [LINK](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-e71811a3-6e33-4fad-b770-1b929d499cf1%3A%3Ad470aa6a-b82d-485b-9233-916d58cb37dd&integrationID=b9961cb6-ec2c-4552-b17a-ac45f6e9672e&region=au-syd&serviceInstanceID=e71811a3-6e33-4fad-b770-1b929d499cf1)
