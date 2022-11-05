@@ -1,3 +1,5 @@
+# Assignment 1
+    Develop a sample homepage with html, CSS which should include banner, image & description about yourself and contact form.
 # Assignment 2
     1. Create a Flask App
     2. Add the Home page, About Page
