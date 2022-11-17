@@ -1,0 +1,100 @@
+SQLite format 3   @       
+   
+      F                                                 .È         >i ä Ü                                                                                            ˜   “#        gtablecartcartCREATE TABLE "cart"
+(
+	image text,
+	samplename text,
+	qty integer,
+	price real,
+	subTotal real,
+	id INTEGER
+)R ‚tableshirtsshirts CREATE TABLE "shirts"
+(
+	id integer not null
+		primary key autoincrement,
+	samplename text,
+	image text,
+	price real,
+	onSale integer,
+	onSalePrice real,
+	kind text,
+	typeClothes text
+)/ ‚-tablepurchasespurchasesCREATE TABLE 'purchases' ('uid' text, 'team' text, 'image' text, 'quantity' integer, 'id' INTEGER, 'date'  date NOT NULL DEFAULT CURRENT_DATE  ); ‚UtableusersusersCREATE TABLE 'users' ('id' integer PRIMARY KEY AUTOINCREMENT NOT NULL, 'username' text NOT NULL, 'password' text NOT NULL, 'fname' text, 'lname' text, 'email' text)P++Ytablesqlite_sequencesqlite_sequenceCREATE TABLE sqlite_sequence(name,seq)
+   Ü Ü                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  " )!	samplepant.jpgSAMPLEPANT;;
+   é éôÖ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ô shirts_dg_tmp	users
+
+	shirts
+   
+í Ü±‰a7
+å¾•jAí                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ,
+ !)	!11SAMPLEPANTsamplepant.jpg2020-12-19$ !	!11Brazilbrasil.jpg2020-12-18'
+ %	!10FC Barcelonafcb.jpg2018-12-25)
+ '		!10Argentinaargentina.png2018-12-25'	 %	!8Colombiacolombia.jpg	2018-12-13% #	!8Belgiumbelgium.png2018-12-13&  %	!8FC Barcelonafcb.jpg2018-12-13( %!8Colombiacolombia.jpg	2018-12-13( '		!1Argentinaargentina.png2018-12-13& %	!8FC Barcelonafcb.jpg2018-12-13& %	!8FC Barcelonafcb.jpg2018-12-13) '	!8Argentinaargentina.png2018-12-13" 	!7Juventusjuv.jpg2018-12-13
+   Ç Çfffffff                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                š                                               i                                                  5                                                                                                 Ò                                                              “                                                b                                     7
+  !3hahahahahamza12345hamzasuhailtesting@hotmail.com
+   
+í •¹ä4^ˆ°×jAí×××××××                                                                                                                                                                                                     %                                    !                                &                                     !                                '                                      )                                        '                          ,1 !)	!11SAMPLEPANTsamplepant.jpg2020-12-19$0 !	!11Brazilbrasil.jpg2020-12-18'/ %	!10FC Barcelonafcb.jpg2018-12-25). '		!10Argentinaargentina.png2018-12-25"% 	!7Juventusjuv.jpg2018-12-13)& '	!8Argentinaargentina.png2018-12-13&' %	!8FC Barcelonafcb.jpg2018-12-13&( %	!8FC Barcelonafcb.jpg2018-12-13() '		!1Argentinaargentina.png2018-12-13(* %!8Colombiacolombia.jpg	2018-12-13&+ %	!8FC Barcelonafcb.jpg2018-12-13%, #	!8Belgiumbelgium.png2018-12-13'- %	!8Colombiacolombia.jpg	2018-12-13
+    î ×­ƒY/Ö¥tCá²P î                                                                                                                                                                                                    /	 #+SAMPLEPANT4samplepant4.jpgEEcasualpant/	 #+SAMPLEPANT3samplepant3.jpg;;casualpant/	 #+	SAMPLEPANT2samplepant2.jpgOEcasualpant/	 #+SAMPLEPANT1samplepant1.jpgOOcasualpant-	 !)	SAMPLEPANTsamplepant.jpgO;casualpant/	 #+	SAMPLESHOE5sampleshoe5.jpgOEcasualshoe/	 #+SAMPLESHOE4sampleshoe4.jpgOOformalshoe/	 #+SAMPLESHOE3sampleshoe3.jpgOOcasualshoe/	 #+	SAMPLESHOE2sampleshoe2.jpgOEcasualshoe/
+	 #+SAMPLESHOE1sampleshoe1.jpgOOcasualshoe-	 !)	SAMPLESHOEsampleshoe.jpgOEcasualshoe(	 #SAMPLE5sample5.jpgOOformalshirt(	 #SAMPLE4sample4.jpgOOcasualshirt(	 #SAMPLE3sample3.jpgYYcasualshirt(	 #	SAMPLE2sample2.jpgOEformalshirt(	 #SAMPLE1sample1.jpgYYformalshirt'	 #	SAMPLEsample0.jpgYYcasualshirt
+    ä®ði ä?              > Ä> ¿--‚+tablepurchases_dg_tmppurchases_dg_tmpCREATE TABLE "purchases"
+(
+	uid text,
+	samplename text,
+	image text,
+	quantity integer,
+	id INTEGER,
+	date date default CURRENT_DATE not null
+) gtablecartcartCREATE TABLE "cart"
+(
+	image text,
+	samplename text,
+	qty integer,
+	price real,
+	subTotal real,
+	id INTEGER
+)R ‚tableshirtsshirts CREATE TABLE "shirts"
+(
+	id integer not null
+		primary key autoincrement,
+	samplename text,
+	image text,
+	price real,
+	onSale integer,
+	onSalePrice real,
+	kind text,
+	typeClothes text
+) .  ‚+tablepurchasespurchasesCREATE TABLE "purchases"
+(
+	uid text,
+	samplename text,
+	image text,
+	quantity integer,
+	id INTEGER,
+	date date default CURRENT_DATE not null
+); ‚UtableusersusersCREATE TABLE 'users' ('id' integer PRIMARY KEY AUTOINCREMENT NOT NULL, 'username' text NOT NULL, 'password' text NOT NULL, 'fname' text, 'lname' text, 'email' text)P++Ytablesqlite_sequencesqlite_sequenceCREATE TABLE sqlite_sequence(name,seq)
+   á Nyá                                                                                                                                                                                                                                                                                                                                                                                                           ·''ƒ	tableshirts_dg_tmpshirts_dg_tmp CREATE TABLE shirts_dg_tmp
+(
+	id ##qtablecart_dg_tmpcart_dg_tmpCREATE TABLE cart_dg_tmp
+(
+	image text,
+	samplename text,
+	qty integer,
+	price real,
+	subTotal real,
+	id INTEGER
+)R ‚tableshirtsshirts CREATE TABLE "shirts"
+(
+	id integer not null
+		primary key autoincrement,
+	samplename text,
+	image text,
+	price real,
+	onSale integer,
+	onSalePrice real,
+	kind text,
+	typeClothes text
+)/ ‚-tablepurchasespurchasesCREATE TABLE 'purchases' ('uid' text, 'team' text, 'image' text, 'quantity' integer, 'id' INTEGER, 'date'  date NOT NULL DEFAULT CURRENT_DATE  )          
+   	      ”›››››>
+ á ° ‡ _ _f E#SAMPLE3sample3.jpgYYnationaleuropef #SAMPLESHOE9rm5 ,#SAMPLE4sample4.jpgOOnationalshirt5(	 #SAMPLE5sample5.jpgOOformalshirtf/
+	 #+SAMPLESHOE1sampleshoe1.jpgOOcasualshoeÅ ’#+	SAMPLESHOE2sampleshoe2.jpgOEnationalshoeÅ !)	SAMPLESHOEsampleshoe.jpgOEnationalshoet_#+SAMPLESHOE1sampleshoe1.jpgOOnatio1/	 #+	SAMPLESHOE2sampleshoe2.jpgOEcasualshoe'	 #	SAMPLEsample0.jpgYYcasualshirt(	 #SAMPLE1sample1.jpgYYformalshirt(	 #SAMPLE3sample3.jpgYYcasualshirt(	 #SAMPLE4sample4.jpgOOcasualshirt(	 #	SAMPLE2sample2.jpgOEformalshirt-	 !)	SAMPLESHOEsampleshoe.jpgOEcasualshoe  ;#	SAMPLEsample0.jpgYYnationalshirt  #SAMPLE1sample1.jpgYYnationalshirt   ä#	SAMPLE2sample2.jpgOEnationalshirt*	 #SAMPLE3sample3.jpgYYnationalshirt   Œ#	SAMPLE2sample2.jpgOEnationalamericas-	 #SAMPLE1sample1.jpgYYnationalamericas,	 #	SAMPLEsample0.jpgYYnationalamericas
+B çÏé€Oà¯                                                                                                                                                                                                                               k 3#+SAMPLEPANT4samplepant4.jpgEEclubamericasK Q#+	SAMPLESHOE5sampleshoe5.jpgOEnationalamericasK #+SAMPLESHOE3sampK /#+SAMPLEPANT4samplepant4.jpgEEclubpantB 3#+SAMPLESHOE3sampleshoe3.jpgOOnationalshoeB/	 #+SAMPLESHOE4sampleshoe4.jpgOOformalshoezB/	 #+	SAMPLESHOE5sampleshoe5.jpgOEcasualshoe/	 #+SAMPLEPANT1samplepant1.jpgOOcasualpant-	 !)	SAMPLEPANTsamplepant.jpgO;casualpant/	 #+SAMPLEPANT4samplepant4.jpgEEcasualpant/	 #+SAMPLEPANT3samplepant3.jpg;;casualpant/	 #+	SAMPLEPANT2samplepant2.jpgOEcasualpant   #+	SAMPLESHOE5sampleshoe5.jpgOEnationalshoe   ‹!)	SAMPLEPANTsamplepant.jpgO;clubpant   ^#+	SAMPLEPANT2samplepant2.jpgOEclub1/	 #+SAMPLESHOE3sampleshoe3.jpgOOcasualshoe
